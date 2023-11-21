@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, saya Hafizs Fauzi Ritonga</h1>
-<h3 align="center"> ;Seorang pengembang frontend yang bersemangat dari Indonesia</h3>
+<h3 align="center"> ;Seorang pengembang Fullstack yang bersemangat dari Indonesia</h3>
 
 - 🌱 Saat ini saya sedang mempelajari **React Js**
 
