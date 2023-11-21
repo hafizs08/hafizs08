@@ -9,8 +9,4 @@
 
 - 📫 Cara menghubungi saya **hafizsritonga08 @gmail.com**
 
-<h3 align="kiri">Hubungkan dengan saya:</h3>
-<p align=" ;kiri">
-<a href="https://linkedin.com/in/hafizs fauzi ritonga" target="kosong"><img align="tengah" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizs fauzi ritonga" tinggi="30" lebar="40" /></a>
-</p>
 
